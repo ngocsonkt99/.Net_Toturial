@@ -1,0 +1,36 @@
+﻿@model bai_5.Models.MailInfo
+@{
+                /**/
+
+                ViewBag.Title = "Index2";
+}
+
+<h2>Index2</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.From, "From")<br />
+        @Html.EditorFor(m => m.From)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.To, "To")<br />
+        @Html.EditorFor(m => m.To)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Subject, "Subject")<br />
+        @Html.EditorFor(m => m.Subject)
+    </div>
+
+    <div>
+        <td>File Attachment:</td>
+        <td><input type="file" name="Attachments" multiple="multiple" /></td>
+    </div>
+
+    <div>
+        <td valign="top">Notes:</td> <br />
+        <td>@Html.TextAreaFor(m => m.Body, new { @rows = 10, @cols = 50 })</td>
+    </div>
+
+    <input type="submit" value="Send" />
+}

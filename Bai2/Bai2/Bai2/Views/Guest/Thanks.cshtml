@@ -1,0 +1,17 @@
+﻿@model Bai2.Models.GuestResponse
+
+@{
+    ViewBag.Title = "Thanks";
+}
+    <div>
+        <h2>Thanks you, @Model.Name</h2>
+        @if (Model.WillAttend == true)
+        {
+            @: It's great that you are coming
+        }
+        else
+        {
+            @: sorry, I'm busy!
+        }
+    </div>
+@Html.ActionLink("Home Guest Page", "Index", "Guest")

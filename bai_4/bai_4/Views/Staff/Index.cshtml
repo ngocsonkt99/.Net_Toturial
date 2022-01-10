@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    #dvPreview1{
+        height: 100px;
+        width:100px;
+    }
+</style>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+@section scripts{
+    <script>
+        //doan script hien thi hinh khi nguoi dung chon file hinh
+        $(function () {
+            $("#fileupload").change(function () {
+                //kiem tra xem co phai hinh khong? dung RegularExpression
+                var regex = /^([a-zA-Z0-9\s_\\.\-:])+(.jpg|.jpeg|.gif|.png|.bmp)$/;
+                if (regex.test($(this).val().toLowerCase())) {
+                    if (typeof (FileReader) != "undefined") {
+                        var reader = new FileReader();
+                        reader.onload = function (e) {
+                            $("#dvPreview1").attr("src", e.target.result);
+                        }
+                        reader.readAsDataURL($(this)[0].files[0]);
+                    } else {
+                        alert("this browser does not support FileReader.");
+                    }
+                } else {
+                    alert("Please upload  a valid image file.")
+                }
+            });
+        });
+    </script>
+    }
+
+<h2>Index</h2>
+<h2>STAFF INFORMATION</h2>
+<form method="post" name="f1" action="/Staff/Save" enctype="multipart/form-data">
+    Staff id:<br /><input type="text" name="txtID" value="@ViewBag.id" /><br />
+    Staff Name:<br /><input type="text" name="txtName" value="@ViewBag.name" /><br />
+    Date of Birth:<br /><input type="date" name="txtDate" value="@ViewBag.birthday" /><br />
+    Salary:<br /><input type="text" name="txtSalary" value="@ViewBag.salary" /><br />
+    Image:<div>
+         <input id="fileupload" type="file" class="fileupload1" name="myfileImage" /><hr />
+         <b>Live Preview</b><br />
+         <img src="@ViewBag.image" id="dvPreview1" />
+    </div>
+    <input type="submit" value="Save" /><input type="button" value="Open"
+                                               onclick="location.href = '@Url.Action("Open","Staff")'" />
+</form>
+

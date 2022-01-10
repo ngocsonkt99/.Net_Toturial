@@ -1,0 +1,30 @@
+﻿@model Bai2.Models.User
+
+@{
+    ViewBag.Title = "Index";
+}
+    <style>
+        p#er {
+            color: #ff0000;
+        }
+    </style>
+<h2>Thong tin dang nhap</h2>
+@using (Html.BeginForm("Dangnhap", "User", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+    <div>
+        User name <br />
+        @Html.TextBoxFor(m => m.Username)
+        <p id="er"> @Html.ValidationMessageFor(m => m.Username)</p>
+    </div>
+    <div>
+        Pass Word <br />
+        @Html.PasswordFor(m => m.Password)
+        <p id="er"> @Html.ValidationMessageFor(m => m.Password)</p>
+    </div>
+
+    <div>
+        <input type="submit" value="Login" />
+    </div>
+}
+

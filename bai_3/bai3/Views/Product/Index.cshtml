@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Bai3.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>DANH SACH SAN PHAM</h2>
+
+<table class="table">
+    <tr>
+        <th> @Html.DisplayNameFor(m => m.ProductID)</th>
+        <th> @Html.DisplayNameFor(m => m.ProductName)</th>
+        <th> @Html.DisplayNameFor(m => m.Price)</th>
+        <th> @Html.DisplayNameFor(m => m.Description)</th>
+        <th>
+            &nbsp;
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(m => item.ProductID)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.Description)
+            </td>
+            <td>
+                Edit | Delete | Detail
+            </td>
+        </tr>
+    }
+</table>
+

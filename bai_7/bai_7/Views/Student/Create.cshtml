@@ -1,0 +1,42 @@
+﻿@model bai_7.Models.Student
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Add Student</h2>
+@using (Html.BeginForm())
+{
+    <h3>Student Information</h3>
+    <div>@Html.LabelFor(m => m.StudentID)</div>
+    <div>@Html.TextBoxFor(m => m.StudentID)</div>
+    <div>
+        @Html.LabelFor(m => m.StudentName)
+    </div>
+    <div>
+        @Html.TextBoxFor(m => m.StudentName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.BirthOfDate)
+    </div>
+    <div>
+        @Html.TextBoxFor(m => m.BirthOfDate, new { @type = "date"})
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Address)
+    </div>
+    <div>
+        @Html.TextBoxFor(m => m.Address)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Picture)
+    </div>
+    <div>
+        @Html.TextBoxFor(m => m.Picture, new { @type = "file"})
+    </div>
+    <input type="submit" value="save"/>
+}
+<div>
+    @Html.ActionLink("Back to index","Index")
+</div>
+

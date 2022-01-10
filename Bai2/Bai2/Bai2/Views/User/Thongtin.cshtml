@@ -1,0 +1,22 @@
+﻿@model Bai2.Models.User
+
+@{
+    ViewBag.Title = "Thongtin";
+    var thanhvien = Session["Thanhvien"] as Bai2.Models.User;
+}
+
+<h2>Thong tin thanh vien</h2>
+
+<ul>
+    <li>Xin chao ban nha: @thanhvien.Username</li>
+    @*@<li>Mat khau @thanhvien.Password</li>*@
+</ul>
+<div>
+    @Html.ActionLink("Thoát", "Logout", "User")
+    <br />
+    @Html.ActionLink("Home Guest page", "Index", "Guest")
+    <br />
+    @Html.ActionLink("Đăng ký", "RvspForm", "Guest")
+    <br />
+</div>
+

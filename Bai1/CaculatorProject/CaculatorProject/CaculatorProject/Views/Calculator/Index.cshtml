@@ -1,0 +1,33 @@
+﻿@model CaculatorProject.Models.Calculation
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <div>
+        @Html.LabelFor(model=> model.num1)
+        @Html.EditorFor(model=>model.num1)
+        @Html.ValidationMessageFor(model=>model.num1)
+    </div>
+    <div>
+        @Html.RadioButtonFor(m=>m.op,"+") + &nbsp;
+        @Html.RadioButtonFor(m=>m.op,"-") - &nbsp;
+        @Html.RadioButtonFor(m=>m.op,"*") * &nbsp;
+        @Html.RadioButtonFor(m=>m.op,"/") / &nbsp;
+    </div>
+    <div>
+        @Html.LabelFor(m => m.num2)
+        @Html.EditorFor(m => m.num2)
+        @Html.ValidationMessageFor(m => m.num2)
+    </div>
+    <div>
+        <input type="submit" value="calculate" />
+    </div>
+    <div>
+        @ViewBag.KetQua
+    </div>
+}
+

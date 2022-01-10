@@ -1,0 +1,140 @@
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\csc.exe
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\vbc.exe
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\VBCSCompiler.exe
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\CaculatorProject.dll.config
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\CaculatorProject.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\CaculatorProject.pdb
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Antlr3.Runtime.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\EntityFramework.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\EntityFramework.SqlServer.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Newtonsoft.Json.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Owin.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.Helpers.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.Mvc.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.Optimization.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.Razor.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.Deployment.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.Razor.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\WebGrease.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.Helpers.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.Mvc.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.Optimization.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.Razor.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.Deployment.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.Razor.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Antlr3.Runtime.pdb
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Newtonsoft.Json.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\EntityFramework.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\EntityFramework.SqlServer.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\obj\Debug\CaculatorProject.csprojResolveAssemblyReference.cache
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\obj\Debug\CaculatorProject.dll
+D:\Bai tap thuc hanh\LapTrinhWWW\Tuan 01\CaculatorProject\CaculatorProject\obj\Debug\CaculatorProject.pdb
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\csc.exe
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\vbc.exe
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\VBCSCompiler.exe
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\CaculatorProject.dll.config
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\CaculatorProject.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\CaculatorProject.pdb
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Antlr3.Runtime.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\EntityFramework.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\EntityFramework.SqlServer.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Newtonsoft.Json.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Owin.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.Helpers.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.Mvc.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.Optimization.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.Razor.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.Deployment.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.Razor.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\WebGrease.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.Helpers.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.Mvc.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.Optimization.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.Razor.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.Deployment.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\System.Web.WebPages.Razor.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Antlr3.Runtime.pdb
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Newtonsoft.Json.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\EntityFramework.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\EntityFramework.SqlServer.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\obj\Debug\CaculatorProject.csprojAssemblyReference.cache
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\obj\Debug\CaculatorProject.csproj.CoreCompileInputs.cache
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\obj\Debug\CaculatorProject.csproj.CopyComplete
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\obj\Debug\CaculatorProject.dll
+D:\Temp\LTWWW .Net (C#)\MVC\CaculatorProject\CaculatorProject\CaculatorProject\obj\Debug\CaculatorProject.pdb

@@ -1,0 +1,31 @@
+﻿@model bai_7.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script>
+    $(function () {
+        $("#h").mouseover(function () {
+            $("#h").attr("width", "300");
+            $("#h").attr("height", "200");
+        });
+        $("#h").mouseout(function () {
+            $("#h").attr("width", "200");
+            $("#h").attr("height", "150");
+        });
+    });
+</script>
+<h2>Student Information</h2>
+<img id="h" src="@ViewBag.path" width="200" height="150" align="left" hspace="50" />
+<ul>
+    <li>StudentID: @Model.StudentID</li>
+    <li>Student Name: @Model.StudentName</li>
+    <li>Birthday: @Model.BirthOfDate</li>
+    <li>Address: @Model.Address</li>
+</ul>
+<div>
+    @Html.ActionLink("Back to index", "Index")
+</div>
+

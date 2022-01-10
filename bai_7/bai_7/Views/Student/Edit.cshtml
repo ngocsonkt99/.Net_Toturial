@@ -1,0 +1,41 @@
+﻿@model bai_7.Models.Student
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Student</h2>
+@using (Html.BeginForm())
+{
+    <div>@Html.LabelFor(m => m.StudentID)</div>
+    <div>@Html.TextBoxFor(m => m.StudentID, new { @ReadOnly ="true"})</div>
+    <div>
+        @Html.LabelFor(m => m.StudentName)
+    </div>
+    <div>
+        @Html.TextBoxFor(m => m.StudentName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.BirthOfDate)
+    </div>
+    <div>
+        @Html.TextBoxFor(m => m.BirthOfDate, new { @type = "date" })
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Address)
+    </div>
+    <div>
+        @Html.TextBoxFor(m => m.Address)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Picture)
+    </div>
+    <div>
+        @Html.TextBoxFor(m => m.Picture, new { @type = "file" })
+    </div>
+    <input type="submit" value="save" />
+}
+<div>
+    @Html.ActionLink("Back to index", "Index")
+</div>
+

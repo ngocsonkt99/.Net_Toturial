@@ -1,0 +1,32 @@
+﻿@model bai_5.Models.MailInfo
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Send mail</h2>
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.From, "From")<br />
+        @Html.EditorFor(m => m.From)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Password, "Password")<br />
+        @Html.EditorFor(m => m.Password)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.To, "To")<br />
+        @Html.EditorFor(m => m.To)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Subject, "Subject")<br />
+        @Html.EditorFor(m => m.Subject)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Body, "Body")<br />
+        @Html.EditorFor(m => m.Body, new { @rows="5",@cols="50"})
+    </div>
+    <input type="submit" value="Send" />
+}
+

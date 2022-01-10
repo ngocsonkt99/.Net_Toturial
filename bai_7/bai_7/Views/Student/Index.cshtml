@@ -1,0 +1,32 @@
+﻿@model IEnumerable<bai_7.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>StudentName</th>
+        <th>BirthOfDate</th>
+        <th>Address</th>
+        <th>Picture</th>
+        <th>&nbsp;</th>
+    </tr>
+@foreach(var item in Model) { 
+<tr>
+    <td>@item.StudentName</td>
+    <td>@item.BirthOfDate</td>
+    <td>@item.Address</td>
+    <td>@item.Picture</td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id= item.StudentID}) |
+        @Html.ActionLink("Details", "Details", new { id=item.StudentID}) |
+        @Html.ActionLink("Delete","Delete",new { id=item.StudentID})
+    </td>
+</tr>
+}
+</table>
